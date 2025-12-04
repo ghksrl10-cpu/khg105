@@ -1,0 +1,11 @@
+# Keep local data out of Git
+/data/
+!/data/.gitkeep
+
+# Logs / temp
+*.log
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
